@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedro Henrique Neumann Rezende</h1>
+<h1 align="center">Hi 👋, I'm Pedro Henrique Rezende</h1>
 <h3 align="center">Student at the Federal Institute of Espírito Santo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phnrezende&label=Profile%20views&color=0e75b6&style=flat" alt="phnrezende" /> </p>
