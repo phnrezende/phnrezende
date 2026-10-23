@@ -1,6 +1,6 @@
 ### Olá! Sou o Pedro Henrique Rezende 👋
 
-Estudante de **Sistemas de Informação** e técnico em **Informática para Internet** pelo IFES. Busco **estágio em desenvolvimento backend**.
+Estudante de **Sistemas de Informação** e técnico em **Informática para Internet**. Busco **estágio em desenvolvimento backend**.
 
 - 🔭 Destaque: **MedVest**, plataforma de estudos para vestibulandos, TCC com nota máxima ([site](https://github.com/anajuboechat/projetoint) · [app Android](https://github.com/anajuboechat/projetoint-mobile))
 - 📋 Projeto pessoal: [kanban-android-firebase](https://github.com/phnrezende/kanban-android-firebase), app de tarefas com login e dados por usuário no Firebase
